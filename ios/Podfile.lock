@@ -1,0 +1,52 @@
+PODS:
+  - activity_recognition_flutter (0.0.1):
+    - Flutter
+  - custom_activity_recognition (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_background_service_ios (0.0.3):
+    - Flutter
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - workmanager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - activity_recognition_flutter (from `.symlinks/plugins/activity_recognition_flutter/ios`)
+  - custom_activity_recognition (from `.symlinks/plugins/custom_activity_recognition/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_background_service_ios (from `.symlinks/plugins/flutter_background_service_ios/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - workmanager (from `.symlinks/plugins/workmanager/ios`)
+
+EXTERNAL SOURCES:
+  activity_recognition_flutter:
+    :path: ".symlinks/plugins/activity_recognition_flutter/ios"
+  custom_activity_recognition:
+    :path: ".symlinks/plugins/custom_activity_recognition/ios"
+  Flutter:
+    :path: Flutter
+  flutter_background_service_ios:
+    :path: ".symlinks/plugins/flutter_background_service_ios/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  workmanager:
+    :path: ".symlinks/plugins/workmanager/ios"
+
+SPEC CHECKSUMS:
+  activity_recognition_flutter: fd735b9927d94b9a7c1165cc9b2e430034d8e230
+  custom_activity_recognition: 0ba7a79f216ee647f0ca7a991243194772b553cc
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_background_service_ios: e30e0d3ee69e4cee66272d0c78eacd48c2e94aac
+  geolocator_apple: 9bcea1918ff7f0062d98345d238ae12718acfbc1
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  workmanager: 0afdcf5628bbde6924c21af7836fed07b42e30e6
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
